@@ -1,7 +1,7 @@
 let userInput = prompt("Введите слова или цифры");
 console.log(userInput);
 
-const input = [];
+let input = [];
 
 input.push(userInput);
 console.log(input);
